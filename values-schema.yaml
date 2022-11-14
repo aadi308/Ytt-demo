@@ -1,0 +1,6 @@
+echos:
+- name: "testing"
+  port: 8080
+  text: "Hello #ytt World on 8080!"
+service:
+  enabled: true
