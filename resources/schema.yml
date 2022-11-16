@@ -1,0 +1,9 @@
+#@data/values-schema
+---
+echos:
+- name: ""
+  port: 8080
+  text: "Hello #ytt World on 8080!"
+service:
+  enabled: true
+
